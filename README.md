@@ -4,9 +4,10 @@
 目前书源属于个人兴趣制作，难免会有失效，错误，请及时反馈 upload by wxdjs 20190104
 
 
-你需要先安装爱阅书香，下载地址：https://itunes.apple.com/cn/app/e7-88-b1-e9-98-85-e4-b9-a6-e9-a6-99/id1137819437?mt=8
+你需要先安装爱阅书香，[下载地址](https://itunes.apple.com/cn/app/e7-88-b1-e9-98-85-e4-b9-a6-e9-a6-99/id1137819437?mt=8)
 
-然后用iOS设备打开地址： https://jxd524.github.io/bookConfigs/
+然后用iOS设备打开此[书源配置的主页](https://jxd524.github.io/bookConfigs/).
+也可以直接复制 https://jxd524.github.io/bookConfigs/ 然后打开**爱阅书香书**, **书源源配置**, **导入剪切板的信息**。
 就可以直接导入以下书源了。
 
 
