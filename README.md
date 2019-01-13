@@ -4,6 +4,11 @@
 目前书源属于个人兴趣制作，难免会有失效，错误，请及时反馈 upload by wxdjs 20190104
 
 
+你需要先安装爱阅书香，下载地址：https://itunes.apple.com/cn/app/e7-88-b1-e9-98-85-e4-b9-a6-e9-a6-99/id1137819437?mt=8
+
+然后用iOS设备打开地址： https://jxd524.github.io/bookConfigs/
+就可以直接导入以下书源了。
+
 
 [55小说网](ifreetime://configs/https://raw.githubusercontent.com/jxd524/bookConfigs/master/55%E5%B0%8F%E8%AF%B4%E7%BD%91-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt) 
 
