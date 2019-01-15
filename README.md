@@ -11,6 +11,8 @@
 就可以直接导入以下书源了。
 
 
+[多书源合集](ifreetime://configs/https://gitee.com/ift123/test/raw/master/bscdef.json) 
+
 [55小说网](ifreetime://configs/https://raw.githubusercontent.com/jxd524/bookConfigs/master/55%E5%B0%8F%E8%AF%B4%E7%BD%91-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt) 
 
 [UC书盟](ifreetime://configs/https://raw.githubusercontent.com/jxd524/bookConfigs/master/UC%E4%B9%A6%E7%9B%9F-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
